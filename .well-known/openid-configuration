@@ -1,7 +1,7 @@
 ﻿{
-  "issuer": "https://github.com/Alphatec-Software",
-  "token_endpoint": "https://github.com/Alphatec-Software/token/v1",
-  "jwks_uri": "https://github.com/Alphatec-Software/.well-known/jwks",
+  "issuer": "https://alphatec-software.github.io/public",
+  "token_endpoint": "https://alphatec-software.github.io/public/token/v1",
+  "jwks_uri": "https://alphatec-software.github.io/public/.well-known/jwks",
   "subject_types_supported": [
     "public",
     "pairwise"
